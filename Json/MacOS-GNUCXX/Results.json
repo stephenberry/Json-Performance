@@ -1,0 +1,546 @@
+[
+   {
+      "results": [
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 2118.3751885742286,
+            "iterationCount": 94,
+            "color": "teal"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 2397.939102322402,
+            "iterationCount": 263,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Read",
+            "resultSpeed": 1570.1059338908801,
+            "iterationCount": 164,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Write",
+            "resultSpeed": 2464.855267271022,
+            "iterationCount": 299,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 768.6999545315934,
+            "iterationCount": 169,
+            "color": ""
+         }
+      ],
+      "testName": ""
+   },
+   {
+      "results": [
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 1293.1646670847915,
+            "iterationCount": 98,
+            "color": "teal"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 1803.9222603621686,
+            "iterationCount": 206,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Read",
+            "resultSpeed": 1050.090996109557,
+            "iterationCount": 204,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Write",
+            "resultSpeed": 1852.2463768115942,
+            "iterationCount": 99,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 426.7424845090692,
+            "iterationCount": 98,
+            "color": ""
+         }
+      ],
+      "testName": ""
+   },
+   {
+      "results": [
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 2073.4514614569134,
+            "iterationCount": 97,
+            "color": "teal"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 2374.3562815837518,
+            "iterationCount": 98,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Read",
+            "resultSpeed": 1585.4693911692273,
+            "iterationCount": 161,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Write",
+            "resultSpeed": 2472.32401979597,
+            "iterationCount": 98,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 335.90650561250555,
+            "iterationCount": 96,
+            "color": ""
+         }
+      ],
+      "testName": ""
+   },
+   {
+      "results": [
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 1258.421048745733,
+            "iterationCount": 99,
+            "color": "teal"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 1818.620895692255,
+            "iterationCount": 93,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Read",
+            "resultSpeed": 1054.333591131735,
+            "iterationCount": 300,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Write",
+            "resultSpeed": 1824.970995091477,
+            "iterationCount": 259,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 180.93612376509378,
+            "iterationCount": 97,
+            "color": ""
+         }
+      ],
+      "testName": ""
+   },
+   {
+      "results": [
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 2939.065387269853,
+            "iterationCount": 98,
+            "color": "teal"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 2462.7410012219125,
+            "iterationCount": 297,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Read",
+            "resultSpeed": 1973.0713452953055,
+            "iterationCount": 95,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Write",
+            "resultSpeed": 3550.7509658931,
+            "iterationCount": 290,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 1738.7297461877947,
+            "iterationCount": 97,
+            "color": ""
+         }
+      ],
+      "testName": ""
+   },
+   {
+      "results": [
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 1727.9007824205094,
+            "iterationCount": 99,
+            "color": "teal"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 1857.8503027952627,
+            "iterationCount": 98,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Read",
+            "resultSpeed": 1351.4672200144862,
+            "iterationCount": 212,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Write",
+            "resultSpeed": 2521.8995433789955,
+            "iterationCount": 100,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 928.4595229734476,
+            "iterationCount": 96,
+            "color": ""
+         }
+      ],
+      "testName": ""
+   },
+   {
+      "results": [
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 3262.0959123419575,
+            "iterationCount": 96,
+            "color": "teal"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 1637.9489765523456,
+            "iterationCount": 169,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Read",
+            "resultSpeed": 3090.4411021104575,
+            "iterationCount": 96,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Write",
+            "resultSpeed": 2314.3809630016403,
+            "iterationCount": 98,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 1172.2587075252006,
+            "iterationCount": 96,
+            "color": ""
+         }
+      ],
+      "testName": ""
+   },
+   {
+      "results": [
+         {
+            "libraryName": "glaze",
+            "resultType": "Read",
+            "resultSpeed": 1080.2011223015115,
+            "iterationCount": 204,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Write",
+            "resultSpeed": 999.5739135632734,
+            "iterationCount": 97,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 1066.5735595289093,
+            "iterationCount": 96,
+            "color": "teal"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 771.3214094749027,
+            "iterationCount": 100,
+            "color": ""
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 370.0197858763504,
+            "iterationCount": 158,
+            "color": ""
+         }
+      ],
+      "testName": ""
+   },
+   {
+      "results": [
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 4433.638065522621,
+            "iterationCount": 98,
+            "color": "teal"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 3186.5025928521377,
+            "iterationCount": 99,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Read",
+            "resultSpeed": 2977.296722682906,
+            "iterationCount": 99,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Write",
+            "resultSpeed": 4164.661603019094,
+            "iterationCount": 94,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 2060.7086457674586,
+            "iterationCount": 98,
+            "color": ""
+         }
+      ],
+      "testName": ""
+   },
+   {
+      "results": [
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 3051.26207442597,
+            "iterationCount": 224,
+            "color": "teal"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 2076.187233455664,
+            "iterationCount": 97,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Read",
+            "resultSpeed": 1615.9319647032985,
+            "iterationCount": 173,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Write",
+            "resultSpeed": 2354.8136572875583,
+            "iterationCount": 94,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 811.4967378485782,
+            "iterationCount": 181,
+            "color": ""
+         }
+      ],
+      "testName": ""
+   },
+   {
+      "results": [
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 2584.2019636172104,
+            "iterationCount": 192,
+            "color": "teal"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 2730.0686717821645,
+            "iterationCount": 98,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Read",
+            "resultSpeed": 2465.4433254767514,
+            "iterationCount": 98,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Write",
+            "resultSpeed": 4306.2215568862275,
+            "iterationCount": 95,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 1548.2384333695848,
+            "iterationCount": 98,
+            "color": ""
+         }
+      ],
+      "testName": ""
+   },
+   {
+      "results": [
+         {
+            "libraryName": "glaze",
+            "resultType": "Read",
+            "resultSpeed": 2081.6935717569545,
+            "iterationCount": 97,
+            "color": ""
+         },
+         {
+            "libraryName": "glaze",
+            "resultType": "Write",
+            "resultSpeed": 3864.794566540862,
+            "iterationCount": 155,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 1684.3756126249755,
+            "iterationCount": 94,
+            "color": "teal"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 2270.940458455476,
+            "iterationCount": 96,
+            "color": ""
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 1046.18394340203,
+            "iterationCount": 292,
+            "color": ""
+         }
+      ],
+      "testName": ""
+   },
+   {
+      "results": [
+         {
+            "libraryName": "glaze",
+            "resultType": "Write",
+            "resultSpeed": 909.8780889621087,
+            "iterationCount": 198,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 626.6633988707949,
+            "iterationCount": 96,
+            "color": ""
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 490.058562555457,
+            "iterationCount": 300,
+            "color": ""
+         }
+      ],
+      "testName": ""
+   },
+   {
+      "results": [
+         {
+            "libraryName": "glaze",
+            "resultType": "Write",
+            "resultSpeed": 1329.1029833136693,
+            "iterationCount": 162,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Write",
+            "resultSpeed": 1270.7049559885938,
+            "iterationCount": 98,
+            "color": ""
+         }
+      ],
+      "testName": ""
+   },
+   {
+      "results": [
+         {
+            "libraryName": "glaze",
+            "resultType": "Read",
+            "resultSpeed": 2211.109243383575,
+            "iterationCount": 97,
+            "color": "skyblue"
+         },
+         {
+            "libraryName": "",
+            "resultType": "Read",
+            "resultSpeed": 1906.8520069583146,
+            "iterationCount": 97,
+            "color": "teal"
+         }
+      ],
+      "testName": ""
+   }
+]
